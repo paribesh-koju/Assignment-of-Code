@@ -1,5 +1,6 @@
 '''
 i = 2
+# using while loop
 while i<15:
         print(i)
         i += 2
